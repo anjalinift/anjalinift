@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anjali from Delhi India. I am currently working as web-developer in a delgi based 
+- 👋 Hi, I’m Anjali from Delhi India. I am currently working as web-developer in a delhi based startup.
 - 👀 I’m interested in UI/UX designing and web-development.
 - 🌱 I’m currently learning Web-Development, UI/UX design and their intersections to find the best field for my career.
 - 💞️ I’m looking to collaborate on project related to web-design and UI developement.
